@@ -49,25 +49,25 @@ Data Cleaning: Initial data preparation involved handling missing values and ens
 
 #### 3.1 Top 10 Cities with the highest product sales
 
-![barplot](../images/barplot_city_and_sales.png)
+![barplot](../Plots/barplot_city_and_sales.png)
 
 The above figure shows that the `'Jacksonville'` contains the product `'Cisco TelePresence System EX90 Videoconferenci...'` with the top notch sale of 22638.480
 
 #### 3.2 Which Product has a highest over all sales 
 
-![barplot](../images/barplot_product_and_sales.png)
+![barplot](../Plots/barplot_product_and_sales.png)
 
 The figure shows that `'the Canon imageCLASS 2200 Advanced Copier'` has the maximum sales then any of the other product
 
 #### 3.3  which segment has the highest sales
 
-![barplot](../images/barplot_segment_and_sales.png)
+![barplot](../Plots/barplot_segment_and_sales.png)
 
 From above figure we observe that Segment consumers have more more no of sales
 
 #### 3.4 Impact of Sales on Profit
 
-![barplot](../images/barplot_profit_and_sales.png)
+![barplot](../Plots/barplot_profit_and_sales.png)
 
 ### 4. Recommendations and Next Steps
 
